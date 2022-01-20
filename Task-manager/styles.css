@@ -1,0 +1,17 @@
+/*
+    credits: razormist - https://www.sourcecodester.com/javascript/14821/task-managing-app-using-javascript-source-code.html
+*/body {
+    background-color: #bd5d38;
+}
+
+.card-action {
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.card-title {
+    text-align: center;
+    text-transform: uppercase;
+    color: #bd5d38;
+    text-shadow: 2px 2px 4px #000000;
+}
